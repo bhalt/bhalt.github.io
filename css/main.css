@@ -1,0 +1,33 @@
+body {
+    background: #283048;  
+    background: -webkit-linear-gradient(to right, #859398, #283048);
+    background: linear-gradient(to right, #859398, #283048);
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding: 15% 20%;
+}
+
+h1 {
+    color: rgba(255,255,255,.4);
+    font-size: 15pt;
+    font-weight: normal;
+    letter-spacing: 15px;
+    text-transform: uppercase;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid rgba(255,255,255,.1);
+    box-shadow: none;
+    margin: 75px 0;
+    width: 150px;
+}
+
+p {
+    color: rgba(255,255,255,.8);
+    font-size: 20pt;
+    max-width: 400px;
+}
+
+b {
+    color: rgba(255,255,255,.7);
+}
